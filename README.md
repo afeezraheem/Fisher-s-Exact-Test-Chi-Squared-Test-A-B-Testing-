@@ -10,4 +10,5 @@ https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html
 
 https://www.geeksforgeeks.org/python-binomial-distribution/#:~:text=stats.-,binom.,r(0%20to%20n).
 
+https://www.youtube.com/watch?v=_GVud4dR7eE
 
